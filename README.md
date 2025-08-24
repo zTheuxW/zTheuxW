@@ -23,6 +23,6 @@
 ---
 
 ## 🌐 Onde me encontrar
-- [LinkedIn](https://www.linkedin.com/in/SEU-LINK)  
+- [LinkedIn](www.linkedin.com/in/matheus-henrique-pereira-27262834a)  
 - [Email](mailto:mhp.jnd@gmail.com)  
 
