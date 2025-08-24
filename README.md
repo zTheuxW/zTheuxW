@@ -22,11 +22,6 @@
 
 ---
 
-## 🐍 Cobrinha dos Commits
-![snake gif](https://github.com/zTheuxW/zTheuxW/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🌐 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/matheus-henrique-pereira-27262834a)  
 - [Email](mailto:mhp.jnd@gmail.com)   
